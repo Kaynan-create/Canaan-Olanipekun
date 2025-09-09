@@ -21,15 +21,15 @@ This portfolio documents my journey into data analysis — from training, projec
 ## 📊 Projects  
 
 ### 📉 [HR Attrition Analysis](https://github.com/Kaynan-create/HR-Attrition-Analysis)  
-*Tools: Power BI, Excel*  
+*Tools: Power BI*  
 Analyzed employee attrition trends across departments, roles, age groups, and work-life balance. Built an HR dashboard to support retention strategies.  
 
 ### 🛒 [Amazon Sales Analysis](https://github.com/Kaynan-create/Amazon-Product-Review-Analysis)
-*Tools: Excel, Power BI*  
+*Tools: Excel*  
 Performed exploratory data analysis on e-commerce sales. Highlighted category pricing trends, discounts, and customer review patterns.  
 
 ### 📦 [KMS Inventory Case Study](https://github.com/Kaynan-create/Kultra-Mega-Stores-Sales-Analysis)  
-*Tools: SQL, Excel*  
+*Tools: SQL*  
 Examined order delivery timelines, payment status, and inventory challenges using SQL queries.
 
 ## 📄 Resume  
