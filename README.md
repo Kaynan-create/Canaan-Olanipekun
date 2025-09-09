@@ -33,8 +33,7 @@ Performed exploratory data analysis on e-commerce sales. Highlighted category pr
 Examined order delivery timelines, payment status, and inventory challenges using SQL queries.
 
 ## 📄 Resume  
-[Download my CV](./resume/Canaan_Olanipekun_Data_Analyst_CV.pdf)
-
+[Download my CV](./Canaan_Olanipekun_Data_Analyst_CV.pdf)
 ## 📫 Contact  
 - 📧 Email: canaaniteoluwa2001@gmail.com  
 - 🔗 GitHub: [github.com/Kaynan-create](https://github.com/Kaynan-create)  
