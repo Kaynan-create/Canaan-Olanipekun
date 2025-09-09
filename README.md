@@ -20,14 +20,22 @@ This portfolio documents my journey into data analysis — from training, projec
 
 ## 📊 Projects  
 
-### [HR Attrition Analysis](./projects/hr-attrition-analysis)  
+### 📉 [HR Attrition Analysis](https://github.com/Kaynan-create/HR-Attrition-Analysis)  
 *Tools: Power BI, Excel*  
 Analyzed employee attrition trends across departments, roles, age groups, and work-life balance. Built an HR dashboard to support retention strategies.  
 
-### [Amazon Sales Analysis](./projects/amazon-sales-analysis)  
+### 🛒 [Amazon Sales Analysis](https://github.com/Kaynan-create/Amazon-Product-Review-Analysis)
 *Tools: Excel, Power BI*  
 Performed exploratory data analysis on e-commerce sales. Highlighted category pricing trends, discounts, and customer review patterns.  
 
-### [KMS Inventory Case Study](./projects/kms-inventory-case-study)  
+### 📦 [KMS Inventory Case Study](https://github.com/Kaynan-create/Kultra-Mega-Stores-Sales-Analysis)  
 *Tools: SQL, Excel*  
-Examined order delivery timelines, payment status, and inventory challenges using SQL queries and Excel visuals.
+Examined order delivery timelines, payment status, and inventory challenges using SQL queries.
+
+## 📄 Resume  
+[Download my CV](./resume/Canaan_Olanipekun_Data_Analyst_CV.pdf)
+
+## 📫 Contact  
+- 📧 Email: canaaniteoluwa2001@gmail.com  
+- 🔗 GitHub: [github.com/Kaynan-create](https://github.com/Kaynan-create)  
+- 🔗 LinkedIn: [linkedin.com/in/canaan-olanipekun](https://linkedin.com/in/canaan-olanipekun)
