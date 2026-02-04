@@ -2,12 +2,12 @@
 ## **"Turning raw data into meaningful insights — one project at a time."** 
 
 Welcome!  
-I’m **Canaan Iteoluwakiishi Olanipekun**, an aspiring Data Analyst with a background in Biological Sciences and recent training in Data Analysis at The Incubator Hub (DSA). 
+I’m **Canaan Iteoluwakiishi Olanipekun**, an entry level Data Analyst with a background in Biological Sciences and recent training in Data Analysis at The Incubator Hub (DSA). 
 
 This portfolio documents my journey into data analysis — from training, projects, and certifications to personal growth in tech, highlighting my training, skills, and hands-on projects. It features work completed during my Data Analysis program at The Incubator Hub (DSA) and beyond, with projects in Excel, Power BI, and SQL. Each project reflects my ability to clean, analyze, and visualize data while delivering insights that support business decision-making. This space also includes my resume, certifications, and links to connect with me.
 
 ## 🧠 About Me  
-- 🎓 B.Sc. Biological Sciences, 2022  
+- 🎓 B.Sc. Biological Sciences, 2023  
 - 🖥️ Completed DSA Data Analysis Program (Excel, SQL, Power BI)  
 - 🌱 Passionate about transforming data into actionable insights  
 - 🚀 Currently open to internships, freelance, and entry-level data roles
@@ -34,7 +34,7 @@ Examined order delivery timelines, payment status, and inventory challenges usin
 
 ### [Strategic Sales Audit Analysis](https://github.com/Kaynan-create/Strategic_Sales_Audit_Analysis)
 *Tool Used: Power BI*
-
+Transformed a "noisy" and "messy" database into a high-integrity analytical tool that identifies exactly where money is being made, where it is being lost, and why 40% of the sales pipeline never reaches the bank.
 
 ## 📄 Resume  
 [Download my CV](./Canaan_Olanipekun_CV.pdf)
