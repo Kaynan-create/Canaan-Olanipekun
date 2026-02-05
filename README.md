@@ -33,7 +33,7 @@ Performed exploratory data analysis on e-commerce sales. Highlighted category pr
 Examined order delivery timelines, payment status, and inventory challenges using SQL queries.
 
 ### [Strategic Sales Audit Analysis](https://github.com/Kaynan-create/Strategic-Sales-Audit-Analysis)
-*Tool Used: Power BI*
+*Tool Used: Power BI*  
 Transformed a "noisy" and "messy" database into a high-integrity analytical tool that identifies exactly where money is being made, where it is being lost, and why 40% of the sales pipeline never reaches the bank.
 
 ## 📄 Resume  
